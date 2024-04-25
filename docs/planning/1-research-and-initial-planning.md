@@ -11,12 +11,12 @@ Objective: Conduct research and initial planning to lay the groundwork for the p
 - [ ] Identify opportunities for differentiation and improvement in the project
 
 ## Technology Stack
-- [x] Choose appropriate technologies for the frontend (client-side) and backend (server-side) development. Consider factors such as scalability, performance, developer familiarity, and community support
-  - [x] Backend
-    - Node.js
-  - [x] Frontend
-    - Vue.js
-  - [x] Database
+- [ ] Choose appropriate technologies for the frontend (client-side) and backend (server-side) development. Consider factors such as scalability, performance, developer familiarity, and community support
+  - [ ] Backend
+    - Node.js (Nest)
+  - [ ] Frontend
+    - React (Vite)
+  - [ ] Database
     - PostgreSQL
 
 ## Integration Requirements
