@@ -10,10 +10,10 @@ Objective: Conduct research and initial planning to lay the groundwork for the p
 
 | name | adress | integration | features | free plan | paid plan |
 |---|---|---|---|---|---|
-| Planning Poker Online | https://planningpokeronline.com | Jira<br>URL<br>CSV | Voting system<br> - Custom<br>Issues list<br>Participate as viewer<br>Voting timer<br>Voting results<br> - Card count<br> - Average<br> - Agreement | Unlimited players<br>9 Votings per game<br>5 Issues voted per game<br>Unlimited games for 6 weeks<br>Permanent game urls | Unlimited Votings per game<br>Unlimited Issues voted per game<br>Access your created games and history. Resume games at any time.<br>Add or remove facilitators at any time<br>Cancel at any time |
-| Scrum Poker Online | https://www.scrumpoker-online.org/en | NA | Voting results<br> - Cards | NA | NA |
-| Planing Poker Agile | https://planning-poker-agile.web.app | NA | Voting system<br> - Custom<br>Voting results<br> - Average | NA | NA |
-| Kaizen | https://kaizen-boards.web.app | NA | Voting system<br>Voting results<br>- Dogs card skin | NA | NA |
+| Planning Poker Online | https://planningpokeronline.com | Jira</br>URL</br>CSV | Voting system</br> - Custom</br>Issues list</br>Participate as viewer</br>Voting timer</br>Voting results</br> - Card count</br> - Average</br> - Agreement | Unlimited players</br>9 Votings per game</br>5 Issues voted per game</br>Unlimited games for 6 weeks</br>Permanent game urls | Unlimited Votings per game</br>Unlimited Issues voted per game</br>Access your created games and history. Resume games at any time.</br>Add or remove facilitators at any time</br>Cancel at any time |
+| Scrum Poker Online | https://www.scrumpoker-online.org/en | NA | Voting results</br> - Cards | NA | NA |
+| Planing Poker Agile | https://planning-poker-agile.web.app | NA | Voting system</br> - Custom</br>Voting results</br> - Average | NA | NA |
+| Kaizen | https://kaizen-boards.web.app | NA | Voting system</br>Voting results</br>- Dogs card skin | NA | NA |
 
 - [ ] Analyze user reviews and feedback to understand user preferences and pain points
 - [x] Identify opportunities for differentiation and improvement in the project
